@@ -1,5 +1,5 @@
 # Fluent_Python
-Examples from the book "Fluent Python" written by Luciano Ramalho.
+Examples from the book "Fluent Python" 2nd edition released in APril 2022 written by Luciano Ramalho.
 
 I read the book once already but without actively coding alongside with it. I found this approach not as effective as I expected.
 That's why I have decided to change approach and rewrite code from the book to practice and get deeper insight into the Python code.
