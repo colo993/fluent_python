@@ -1,5 +1,3 @@
-# A Pythonic Card Deck
-
 # Example 1-1. A deck as a sequence of playing cards
 import collections
 from random import choice
