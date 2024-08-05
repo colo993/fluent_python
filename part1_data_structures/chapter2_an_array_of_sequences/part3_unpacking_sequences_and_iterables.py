@@ -51,6 +51,7 @@ fun(*[1, 2], 3, *range(4, 7))
 [*range(4), 4]
 {*range(4), 4, *(5, 6, 7)}
 
+# Example 2-8. Unpacking nested tuples to access the longitude
 # The target of an unpacking can use nesting. 
 # Each tuple holds a record with four fields, the last of which is a coordinate pair
 metro_areas = [
